@@ -13,3 +13,5 @@ let fib = (num) => {
 };
 
 console.log(fib(5));
+
+console.log('this is fib');
